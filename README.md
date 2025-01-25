@@ -108,8 +108,8 @@ After running the tests, results will be displayed in the terminal. If any test 
 
 ## **Contributors**
 
-- **Irem Vardan**
-  - API Testing Expert
+- **Irem Vardan, Msc**
+  - Senior Test Automation Engineer
   - [GitHub Profile](https://github.com/remvrdn)
 
 ---
