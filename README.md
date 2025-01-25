@@ -85,10 +85,9 @@ public void testCreatePetPositive() {
 ### Negative Scenario: Attempt to Fetch a Non-existent Pet
 ```java
 @Test
-public void testGetPetNegative() {
-    Response response = PetStoreUtils.getPet(99999); // Non-existent ID
-    Assert.assertEquals(response.statusCode(), 404);
-    Assert.assertEquals(response.jsonPath().getString("message"), "Pet not found");
+public void testCreatePetNegative() {
+    Response response = PetStoreUtils.notCreatePet( null, null); // Geçersiz veri
+    Assert.assertEquals(response.statusCode(), 405);
 }
 ```
 
