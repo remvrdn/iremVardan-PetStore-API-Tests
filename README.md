@@ -106,15 +106,6 @@ After running the tests, results will be displayed in the terminal. If any test 
 
 ---
 
-## **Future Enhancements**
-
-- Add support for authentication if required.
-- Extend test coverage for edge cases.
-- Integrate with CI/CD pipelines for continuous testing (e.g., GitHub Actions, Jenkins).
-- Generate detailed test reports using tools like **Allure** or **ExtentReports**.
-
----
-
 ## **Contributors**
 
 - **Irem Vardan**
