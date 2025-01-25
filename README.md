@@ -12,7 +12,7 @@ The project is organized as follows:
 src
 ├── main
 │   └── java
-│       └── org.example.petstore
+│       └── petstore
 │           ├── PetStoreUtils.java  # Utility methods for CRUD operations
 ├── test
     └── java
