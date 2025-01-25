@@ -122,7 +122,3 @@ After running the tests, results will be displayed in the terminal. If any test 
   - [GitHub Profile](https://github.com/remvrdn)
 
 ---
-
-## **License**
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
